@@ -1,10 +1,10 @@
-# DataModelPatch
+# BuiltinPlugins
 
 Accurate decompilation of Roblox Studio's BuiltinPlugins. 
 
 > [!WARNING]
 > I am going to ULTRAKILL you.
-> 
+
 ### Credits
 
 * [TheGreatSageEqualToHeaven](https://github.com/TheGreatSageEqualToHeaven) - Outputting decompiled source code from bytecode output ([`src/PatchRoot/`](src/PatchRoot))
@@ -16,7 +16,7 @@ Accurate decompilation of Roblox Studio's BuiltinPlugins.
 
 ## 🏛️ Licensing
 
-Some of the original source code from DMPatch is/was licensed under the Apache-2.0 license, while some is also proprietary and exclusively owned by Roblox Corporation ("Roblox"). Furthermore, any source code from this decompilation should be considered unlicensed code.
+Most of the BuiltinPlugins code is also proprietary and exclusively owned by Roblox Corporation ("Roblox"). Furthermore, any source code from this decompilation should be considered unlicensed code.
 
 ## Decompiler
 
