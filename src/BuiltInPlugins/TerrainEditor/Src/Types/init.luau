@@ -1,0 +1,2 @@
+local l_script_FirstAncestor_0 = script:FindFirstAncestor("TerrainEditor");
+return (require(l_script_FirstAncestor_0.Packages.Dash).join({}, require(l_script_FirstAncestor_0.Src.Types.Generation), require(l_script_FirstAncestor_0.Src.Types.PrivateEnums), require(l_script_FirstAncestor_0.Src.Types.PublicEnums), require(l_script_FirstAncestor_0.Src.Types.Settings), (require(l_script_FirstAncestor_0.Src.Types.Tools))));
