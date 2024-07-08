@@ -1,6 +1,6 @@
-# BuiltinPlugins
+# BuiltInPlugins
 
-Accurate decompilation of Roblox Studio's BuiltinPlugins. 
+Accurate decompilation of Roblox Studio's BuiltInPlugins
 
 ### Credits
 
