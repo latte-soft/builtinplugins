@@ -2,9 +2,6 @@
 
 Accurate decompilation of Roblox Studio's BuiltinPlugins. 
 
-> [!WARNING]
-> I am going to ULTRAKILL you.
-
 ### Credits
 
 * [TheGreatSageEqualToHeaven](https://github.com/TheGreatSageEqualToHeaven) - Outputting decompiled source code from bytecode output ([`src/PatchRoot/`](src/PatchRoot))
